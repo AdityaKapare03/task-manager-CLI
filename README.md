@@ -35,16 +35,6 @@ A lightweight, terminal-based task manager built with C++ and ncurses. Organize 
 sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
 
-**macOS:**
-```bash
-brew install ncurses
-```
-
-**Arch Linux:**
-```bash
-sudo pacman -S ncurses
-```
-
 ### Building from Source
 
 1. Clone or download the repository
